@@ -637,9 +637,7 @@ video{
 }
 
 @media(max-width:1400px){
-	body{
-		transform: rotate(-90deg);
-	}
+
 	.contacto{
 		display: none;
 	}
